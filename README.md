@@ -1,12 +1,5 @@
----
-title: "Fundamentals of Data Science (GSND)"
-date: Spring (Jan-Feb), 2026
-output: word_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+### Fundamentals of Data Science (GSND)"
+## Spring (Jan-Feb), 2026
 
 ### COURSE DESCRIPTION:
 

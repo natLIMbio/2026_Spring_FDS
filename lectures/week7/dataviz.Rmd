@@ -124,9 +124,9 @@ if(knitr::is_html_output()){
 
 ## Encoding data using visual cues
 \Large
-Compare and contrast the information we can extract from the two figures:
+Compare and contrast the information from the two figures:
 \center
-```{r two-barplots, echo=FALSE, out.width="60%", fig.align='center'}
+```{r two-barplots, echo=FALSE, out.width="50%", fig.align='center'}
 p2 <-browsers %>%
   ggplot(aes(Browser, Percentage)) + 
   geom_bar(stat = "identity", width=0.5) +
